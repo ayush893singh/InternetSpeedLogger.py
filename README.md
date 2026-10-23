@@ -35,7 +35,7 @@ Install the required library using:
 
 pip install speedtest-cli
 
-How to Run
+# How to Run
 
 1. Download or clone this repository.
 2. Open the project folder in your terminal.
@@ -45,14 +45,14 @@ python InternetSpeedLogger.py
 
 4. Select an option from the menu.
 
-Menu Options
+# Menu Options
 
 Option| Description
 1| Test Internet Speed
 2| View Speed History
 3| Exit
 
-Output Information
+# Output Information
 
 The application displays:
 
@@ -61,13 +61,13 @@ The application displays:
 - Ping in milliseconds
 - Date and time of the test
 
-Data Storage
+# Data Storage
 
 Test results are stored in "speed_history.csv". The file contains the test date, download speed, upload speed, and ping.
 
 The CSV file is created automatically when the first speed test is completed.
 
-Project Structure
+# Project Structure
 
 Internet-Speed-Test-Logger/
 ├── InternetSpeedLogger.py
@@ -76,7 +76,7 @@ Internet-Speed-Test-Logger/
 
 The "speed_history.csv" file is generated automatically by the program.
 
-Learning Objectives
+# Learning Objectives
 
 This project helps beginners practice:
 
@@ -87,13 +87,13 @@ This project helps beginners practice:
 - Date and time handling
 - Working with internet speed test results
 
-Limitations
+# Limitations
 
 - An active internet connection is required.
 - Speed test results may vary depending on network conditions and the selected server.
 - The "speedtest-cli" library may not work in every mobile Python environment.
 
-Future Improvements
+# Future Improvements
 
 - Display speed history as a graph
 - Calculate average download and upload speeds
@@ -101,7 +101,7 @@ Future Improvements
 - Add automatic periodic speed tests
 - Create a graphical user interface
 
-Author
+# Author
 
 Ayush Singh
 
