@@ -102,11 +102,9 @@ This project helps beginners practice:
 - Create a graphical user interface
 
 # Author
-
 Ayush Singh
-
 GitHub: https://github.com/ayush893singh
 
-License
+# License
 
 This project is available for educational and personal use.
