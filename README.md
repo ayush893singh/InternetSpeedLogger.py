@@ -72,15 +72,6 @@ Test results are stored in "speed_history.csv". The file contains the test date,
 
 The CSV file is created automatically when the first speed test is completed.
 
-# Project Structure
-
-Internet-Speed-Test-Logger/
-├── InternetSpeedLogger.py
-├── speed_history.csv
-└── README.md
-
-The "speed_history.csv" file is generated automatically by the program.
-
 # Learning Objectives
 
 This project helps beginners practice:
