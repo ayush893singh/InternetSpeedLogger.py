@@ -1,5 +1,4 @@
 # Internet Speed Test Logger
-
 About the Project
 
 Internet Speed Test Logger is a Python-based application that measures internet download speed, upload speed, and ping. It also saves test results in a CSV file so users can review their internet speed history later.
@@ -7,7 +6,6 @@ Internet Speed Test Logger is a Python-based application that measures internet 
 # License
 
 This project is available for educational and personal use.
-
 
 # Features
 
@@ -22,12 +20,8 @@ This project is available for educational and personal use.
 
 # Technologies Used
 
-- Python
-- "speedtest-cli"
-- CSV File Handling
-- "datetime"
-- "os"
-
+ Python
+  
 # Requirements
 
 - Python 3.x
